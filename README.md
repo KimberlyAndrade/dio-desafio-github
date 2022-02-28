@@ -2,4 +2,7 @@
 Repositório criado para o desafio de projeto da DIO sobre GitHub
 Parte do Banco Carrefour Woman Developer
 
-## Arquivo de anotações do curso
+- Pensamento Computacional
+- Lógica de Programação Essencial
+- Introdução ao Git e Github
+- Projetos Ágeis com Scrum

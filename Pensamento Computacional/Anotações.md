@@ -1,5 +1,5 @@
 # Pensamento Computacional
-[Link do Curso] (https://web.dio.me/course/pensamento-computacional/learning/050675c1-8a7f-476b-a778-9b1c7eb75744?back=/track/banco-carrefour-woman-developer)
+[Link do Curso](https://web.dio.me/course/pensamento-computacional/learning/050675c1-8a7f-476b-a778-9b1c7eb75744?back=/track/banco-carrefour-woman-developer)
 
 - Visão geral
 - Pilares do pensamento computacional
